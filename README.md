@@ -41,8 +41,7 @@ Feel free to customize and use it in your projects.
 
 
 ## Author
-
-[Mohammad Wasim Tikki](https://github.com/wasimtikki120)
+nishat jamadar ("https://github.com/nish-nj")
 
 ## Contribution
 
